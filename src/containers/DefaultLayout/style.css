@@ -1,0 +1,50 @@
+#mainstyle {
+    background-color: #ffffff !important;
+}
+.cardoveralsize {
+    padding: 0 0 -10px 0 !important;
+    border: 0 !important;
+}
+#defaultheaderfontstyle {
+    font-size: 12px !important;
+}
+#defaultheaderfontstyledropdown {
+    border-bottom: 1px solid #969da2 !important;
+    padding: 8px !important;
+}
+#defaultheaderfontstylelabel {
+    padding: 5px 10px !important;
+    margin-right: 5px !important;
+}
+#defaultheaderfontstyleerp {
+    padding: 5px 8px !important;
+    margin-right: 5px !important;
+}
+#defaultheaderfontstylebonofied {
+    padding: 5px 4px !important;
+    margin-right: 5px !important;
+}
+#defaultheaderfontstyleinbox {
+    padding: 5px 12px !important;
+    margin-right: 5px !important;
+    cursor: pointer;
+}
+#defaultheaderfontstyletotalcount1 {
+    margin-left: -37px !important;
+}
+#defaultheaderfontstyletotalcount2 {
+    margin-left: 14px !important;
+}
+#defaultheaderfontstyledropdownmenu {
+    width: 350px !important;
+}
+#defaultheaderfontstyledropdownitem {
+    background-color: #DDE4E8 !important;
+}
+.app-body {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    overflow-x: hidden;
+    font-size: 14px !important;
+}

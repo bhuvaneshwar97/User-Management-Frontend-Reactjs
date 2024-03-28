@@ -1,0 +1,313 @@
+.pointsFillter_style_A {
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    width: auto;
+    margin-left: 15px;
+}
+.pointsFillter_style_B {
+    margin-left: 0px;
+}
+.firstpoints_style {
+    white-space: normal;
+    text-align: center;
+    font-size: 25px;
+    color: red;
+}
+.counselorPoints_Style_C{
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;   
+    width: auto;  
+}
+.searchInFilter{
+    border: 0px !important;
+    width: 90%;
+    height: 25px;
+}
+.searchAdmissionCloseIcon{ 
+    margin-top: -20px !important;   
+}
+.searchDropdown{    
+    background-color: #ffff !important;
+    width: 38%; 
+}
+.searchDropdown:hover{
+    background-color: #ffff !important;
+}
+.dropdown-colmun{
+    width: 100%; 
+}
+.div-dropdown-item{
+    width: 440px;
+    overflow: hidden;
+}
+.dropdownItem-right{
+    color:#050505;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.dropdownItem-left{
+    color:#605c5c
+}
+.dropdownItemfilter{
+    border-bottom: 1px solid gray !important;
+    cursor: pointer;
+    text-overflow: ellipsis;
+}
+.pointsTable {
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    width: auto;
+    margin-left: 15px;
+}
+.filter_style {
+    font-size: 25px;
+    text-align: center;
+    background-color: #009eff;
+    color: white;
+    height: 35px;
+    width: 35px;
+    padding-top: 8px;
+    margin-left: 0px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.pointTable_C {
+    padding-top: 10px;
+}
+.pointTable_B {
+    background-color: gray;
+    color: white;
+    border-radius: 50px !important;
+    border: 2px solid rgb(250, 246, 246);
+    padding: 5px;
+    font-size: small;
+}
+.pointTable {
+    padding: 5px;
+}
+.pointTable_D {
+    margin-top: -20px;
+}
+.font_styles {
+    margin-left: -10px !important;
+}
+.total_Text_Styles {
+    color: green;
+}
+.reports_header_style_C {
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    width: auto;
+}
+.adhar_dropdown_style {
+    width: 300px !important;
+    float: left;
+}
+.adhar_access_button_style {
+    height: 38px !important;
+    float: left;
+}
+.CounselorAdmission_style_A {
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    width: auto;
+    margin-bottom: 25px;
+}
+.pagination_style7 {
+    margin-top: 10px !important;
+    margin-right: 0px;
+    float: right;
+}
+.columnClassNameFormat {
+    text-align: right;
+    background-color: red;
+}
+.linkStyles {
+    margin-left: 0px !important;
+    font-size: 18px !important;
+    cursor: pointer;
+}
+.alignmentStyles {
+    text-align-last: right !important;
+    margin-left: -109px;
+}
+.alignmentStyle {
+    text-align-last: right !important;
+    margin-left: -131px;
+}
+.alignmentStylesForBalance {
+    text-align-last: right !important;
+    margin-left: -158px;
+}
+.points_searchIcon_style {
+    cursor: pointer;
+    color: white !important;
+    background-color: #424242 !important;
+}
+.alignRight {
+    float: right;
+    margin-left: 10px !important;
+}
+.pointsummary_export_closeIcon {
+    float: right;
+    margin-right: 167px !important;
+    cursor: pointer;
+    margin-top: 6px !important;
+}
+.points_export_closeIcon {
+    margin-right: 67px !important;
+    cursor: pointer;
+    margin-top: 7px !important;
+}
+.AadharPoint_pagination {
+    text-align: right;
+    float: right;
+    margin-right: 0px;
+}
+#pointsiconstyle1, #pointsiconstyle2 {
+    font-size: 15px !important;
+    cursor: pointer;
+}
+#pointsiconstyle11, #pointsiconstyle22 {
+    font-size: 15px !important;
+    cursor: pointer;
+}
+.confirmfeestyle {
+    color: blue;
+}
+.applicationnumberstyle {
+    color: red;
+}
+.toaststyle {
+    z-index: 1999 !important;
+}
+.aadharpointsadmissionstyle {
+    color: rgb(33, 133, 208, 1);
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    width: auto;
+}
+.pointsummarycolumnspanstyle {
+    float: right;
+    font-weight: bold;
+}
+.pointsummarydividerstyle {
+    margin-top: 0 !important;
+}
+.pointsummaryrowstyle {
+    padding: 0 !important;
+    margin-left: 0 !important;
+}
+.pointsummaryspanalignstyle {
+    float: right;
+}
+.pointsummarygridrowstyles {
+    padding: 0 !important;
+    margin-left: 0 !important;
+    margin-top: 10px !important;
+}
+.cardstyle {
+    width: 100% !important;
+}
+.buttonstyle {
+    margin-left: 5px !important;
+}
+.hrstyle {
+    border: 1px solid black !important;
+}
+@media screen and (max-width: 1920px) and (min-width:300px) {
+    .react-bs-container-body {
+        overflow: auto;
+        width: 100%;    
+    }
+}
+@media only screen and (min-width:767px) {
+    .pointsmargin {
+        margin-top: -27px !important;
+    }
+}
+@media screen and (max-width: 1920px) and (min-width: 1280px) {
+    .pointsmargin {
+        margin-top: 0px !important;
+    }
+      
+    .table-bordered tr {
+        padding: 1rem 0.5rem 1rem 0.5rem;
+        margin: 5px;
+        border: none;
+        box-shadow: none !important;
+    }
+   
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
+   .searchbuttonstyle13{
+    margin-left: 1.5em !important;
+   }
+   .pointsmargin {
+    margin-top: 0em !important;
+}
+#pointsiconstyle1 {
+    font-size: 15px !important;
+    cursor: pointer;
+    margin-left: -1em !important;
+}
+#pointsiconstyle2 {
+    font-size: 15px !important;
+    cursor: pointer;
+ 
+}
+#pointsiconstyle11 {
+    font-size: 15px !important;
+    cursor: pointer;
+    margin-left: -1em !important;
+}
+#pointsiconstyle22 {
+    font-size: 15px !important;
+    cursor: pointer;
+ 
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
+    .searchbuttonstyle13{
+        margin-left: 1.5em !important;
+       }
+       .pointsmargin {
+        margin-top: 0em !important;
+    }
+    #pointsiconstyle1, #pointsiconstyle2 {
+        font-size: 15px !important;
+        cursor: pointer;
+    }
+    #pointsiconstyle11 {
+        font-size: 15px !important;
+        cursor: pointer;
+        margin-left: -1em !important;
+    }
+    #pointsiconstyle22 {
+        font-size: 15px !important;
+        cursor: pointer;
+     
+    }
+}
+@media only screen and (min-device-width: 1120px) and (max-device-width: 1219px) 
+and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
+    .pointsmargin {
+        margin-top: 0em !important;
+    } 
+    #pointsiconstyle1, #pointsiconstyle2 {
+        font-size: 15px !important;
+        cursor: pointer;
+    }
+}

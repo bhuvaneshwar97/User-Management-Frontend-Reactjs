@@ -1,0 +1,19 @@
+/* Input Fields Style*/
+.inputFields_style_A {
+    height: 38px !important;
+}
+.inputFields_style_B {
+    height: 38px !important;
+}
+.inputFields_style_C {
+    padding-bottom: 0px;
+    float: left;
+}
+.inputFields_style_D {
+    color: red !important
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

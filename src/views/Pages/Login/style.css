@@ -1,0 +1,204 @@
+.login_style {
+    color: red !important;
+}
+.body1 {
+    background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+}
+.cover-photo {
+    background: #4485a94f;
+    width: 300px;
+    height: 100px;
+    border-radius: 0 0 50% 50%/0 0 100% 100%;
+    margin-left: -44px;
+    margin-top: -40px;
+}
+.photo {
+    background: #ffffff;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.nextcard {
+    position: relative;
+    top: -50px;
+    width: 36%;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+    margin-left: -90px;
+    box-shadow: -1px 1px 11px 6px rgba(189, 172, 172, 0.33);
+}
+.wholeloginstyle {
+    margin-top: -39px;
+}
+.textstyle {
+    text-align: center;
+}
+.buttonstyle {
+    background-color: #ee4d38;
+    color: #ffffff;
+}
+@media screen and (max-width: 2500px) and (min-width:1921px) {
+    .logostyle {
+        width: 79%;
+        margin-left: -23px;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: -10rem; */
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+}
+@media screen and (max-width: 1920px) and (min-width:1280px) {
+    .logostyle {
+        width: 79%;  
+        margin-left: -23px;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: -10rem; */
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+}
+@media only screen and (min-width: 401px) and (max-width: 767px) {
+    .dimmerstylelogin {
+        height: 135% !important;
+    }
+    .logostyle {
+        margin-top: 0rem;
+        margin-left: -9rem;
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+        margin-top: 11rem;
+        margin-left: 35px;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: 4rem; */
+        margin-top: -2rem;
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+}
+@media only screen and (min-width: 320px) and (max-width:400px) {
+    
+    .dimmerstylelogin {
+        height: 135% !important;
+    }
+    .logostyle {
+        margin-top: 0rem;
+        margin-left: -11rem;
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+        margin-top: 11rem;
+        margin-left: 35px;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: 2rem; */
+        margin-top: -2rem;
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+}
+@media screen  and (min-width:1024px) and (max-width: 1279px) and (orientation: landscape) {
+    .logostyle {
+        width: 79%;   
+        margin-left: -4em;
+        margin-top: 4em;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: -10rem; */
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+     
+}
+@media screen and (min-width:768px) and (max-width: 1024px)  and (orientation: portrait) {
+    .logostyle {
+        width: 96%;       
+        margin-left: -7em;
+        margin-top: 6em;
+    }
+    .secondcard {
+        background-color: #fff;
+        max-width: 282px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border-radius: 2rem;
+        height: 30rem;
+        /* margin-left: -10rem; */
+        box-shadow: 0px 1rem 1.5rem rgba(0, 0, 0, 0.5);
+    }
+    .firstcard {
+        background-color: transparent;
+        border: none;
+    }
+    .mobilestyle {
+        background: linear-gradient(to right, #e4f5ff, #f8ecfa);
+    }
+  
+}
